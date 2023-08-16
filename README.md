@@ -1,7 +1,6 @@
-+# Corona management system for the HMO
-+# מערכת לניהול קורונה לקופת חולים
-+## Chany Weber
-+## חני וובר ת.ז:213496060
+# Corona management system for the HMO - מערכת לניהול קורונה לקופת חולים
+## Chany Weber - חני וובר ת.ז:213496060 
+
 
 # 1. התקנות ותלויים חיצונים 
 
